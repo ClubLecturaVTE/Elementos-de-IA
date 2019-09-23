@@ -5,10 +5,9 @@
 
 ### Ejemplos de la IA
 
--Coches autónomos
--Recomendaciones de contenido 
--Procesamiento de vídeo e imagen
-
+ - Coches autónomos 
+ - Recomendaciones de contenido  
+ - Procesamiento de vídeo   e imagen
 
 ### ¿Qué es y qué no es IA?
 

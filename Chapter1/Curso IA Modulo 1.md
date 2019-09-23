@@ -5,9 +5,9 @@
 
 ### Ejemplos de la IA
 
-Coches autónomos
-Recomendaciones de contenido 
-Procesamiento de video e imagen
+-Coches autónomos
+-Recomendaciones de contenido 
+-Procesamiento de video e imagen
 
 
 ### ¿Qué es y qué no es IA?
@@ -15,7 +15,7 @@ Procesamiento de video e imagen
 La IA no tiene una definición clara y cada persona tiene su propia opinión sobre qué es la Inteligencia Artificial. El Curso busca intentar dar una definición a base de ejemplos de lo que es y no es IA. 
 Los motivos por los que no hay un consenso sobre la definición de los que es IA se debe a 3 puntos
 
- 1. NO hay una definición clara ni unánime
+ 1. No hay una definición clara ni unánime
  2. El legado de la Ciencia Ficción (la cultura Pop)
  3. Lo que parece fácil no lo es tanto
  
@@ -25,6 +25,7 @@ Los motivos por los que no hay un consenso sobre la definición de los que es IA
 ### Definición útil
 
 Listar las propiedades que son características de la IA.
+
 **Autonomía**
 The ability to perform tasks in complex environments without constant guidance by a user.
 
@@ -38,8 +39,8 @@ Acuñó el término palabra de maleta para términos que tienen un montón de si
 Ejemplos de palabras maleta: consciencia, moralidad, justicia, ética
 
 
->  ## Nota interesante, uso de la palabra IA "AI" no es un sustantivo
-> contable, una IA, dos IA, etc. La IA es una disciplina científica,
+>  ## Nota: uso de la palabra IA
+>  no es un sustantivo contable, una IA, dos IA, etc. La IA es una disciplina científica,
 > como las matemáticas o la biología. Esto significa que la IA es una
 > colección de conceptos, problemas y métodos para resolverlos. Debido a
 > que la IA es una disciplina, no debes decir "una IA", al igual que no
@@ -47,8 +48,10 @@ Ejemplos de palabras maleta: consciencia, moralidad, justicia, ética
 
 ## Módulo 2: Ámbitos relacionados
 3 aspectos que son interesantes de aprender: 
+
 **Machine Learning**: Es un subcampo de la IA. Sistemas que mejoran su rendimiento en una tarea determinada a partir más y más experiencia o datos, hasta que el sistema aprenda a tomar decisiones de forma autónoma. 
-Deep Learning: Es un tipo de Machine Learning en el que se lleva a cabo el proceso de Machine Learning usando una red neuronal artificial que se compone de un número de niveles jerárquicos. Se ampliará en el Capítulo 5
+
+**Deep Learning**: Es un tipo de Machine Learning en el que se lleva a cabo el proceso de Machine Learning usando una red neuronal artificial que se compone de un número de niveles jerárquicos. Se ampliará en el Capítulo 5
 
 **Robotics**: Significa construir y programar robots de tal manera que puedan interactuar en situaciones complejas del mundo real. Para ello se combinan diferentes areas de la IA como pueden ser la Computer Vision, Procesamiento de Lenguaje Natural NLP, Modelos Cognitivos y Computación Afectiva. 
 
@@ -85,3 +88,14 @@ La contribución más destacada de Turing a la IA es su juego de imitación, que
 En el test, un interrogador humano interactúa con dos jugadores, A y B, intercambiando mensajes escritos. 
 Si el interrogador no puede determinar qué jugador, A o B, es una computadora y cuál es un humano, 
 se dice que la computadora pasa la prueba.
+
+Problemas del Test:
+- Uno de los problemas es que el Test se puede engañar evitando responder ocambiando de tema contínuamente. Ver a Eugene Goostman https://en.wikipedia.org/wiki/Eugene_Goostman
+- El dilema de la habitación china. Creado por John Searle.https://www.iep.utm.edu/chineser/.  
+- Coches "Inteligentes". No tienen inteligencia realmente, sólo están entrenados para reaccionar en determinadas situaciones a través de la información recibida por su sensórica. 
+
+Con conceptos como conscienciae inteligencia, la filosofía es importante a la hora de poner en práctica la IA, pero como contrapunto, John McCarthy  http://jmc.stanford.edu/articles/aiphil/aiphil.pdf, considera que no es algo que en la práctica tenga importancia. 
+
+
+Alternativas al Test:
+https://io9.gizmodo.com/8-possible-alternatives-to-the-turing-test-1697983985

@@ -25,7 +25,7 @@ En el primer módulo, nos presentan dos variantes del clásico *[problema del ba
 No obstante, en la explicación del proceso, se obvia señalar las limitaciones con las que cuenta el problema (reglas del juego), en la que ciertos actores no pueden quedarse solos en la misma orilla. Lo que en este problema es algo trivial de solucionar, en problemas más complejos introduce nuevas variables a tener en cuenta.
 
 Conceptos clave de este módulo:
-  - **Espacio de estados**
+  - **Espacio de búsqueda**
   - **Transiciones**
   - **Costes**
 

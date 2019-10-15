@@ -78,8 +78,8 @@ Curso online gratuito para todos aquellos que quieran saber qué es la IA, que e
     | Chapter 2     | 30-09-2019    | Óscar         |
     | Chapter 3     | 07-10-2019    | Víctor        |
     | Chapter 4     | 14-10-2019    | Valentín      |
-    | Chapter 5     | 21-10-2019    | Óscar         |
-    | Chapter 6     | 28-10-2019    |     ?????     |
+    | Chapter 5     | 21-10-2019    | Valentín      |
+    | Chapter 6     | 28-10-2019    | Oscar         |
 ```
 
 ## Formato

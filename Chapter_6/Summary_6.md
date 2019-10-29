@@ -12,6 +12,8 @@ Philip E. Tetlock, autor de Superforecasting: The Art and Science of Prediction,
 
 ### Actualidad
 > **Paradigma:** En filosofía de la ciencia, término utilizado para una tendencia. La historia de la IA, ha sido testigo del ir y venir de varias tendencias diferentes con alzas y bajas del interés y de esfuerzos de investigación. 
+https://www.gartner.com/smarterwithgartner/5-trends-appear-on-the-gartner-hype-cycle-for-emerging-technologies-2019/
+
 
 Actualmente el **interés ha aumentado**. Los métodos modernos de inteligencia artificial tienden a centrarse en **dividir un problema en una serie de problemas más pequeños**, aislados y bien definidos y resolverlos uno por uno. 
 Otra característica de los métodos modernos de IA, es la capacidad de manejar la **incertidumbre**. 
@@ -60,3 +62,11 @@ Lo que debemos hacer para garantizar un resultado positivo:
 -   Debemos aprender a ser críticos con lo que vemos
 -   Necesitamos establecer una regulación para garantizar que las personas tengan derecho a la privacidad
 -  Debemos  encontrar nuevas formas de compartir los beneficios para todos
+
+# 
+
+
+
+|Este no es el fin. Este es el comienzo :)|  |
+|---------------------------------------|--|
+|                                       |  |
